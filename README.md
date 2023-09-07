@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkoundal98&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkoundal98" /> </p>
 
-- 🌱 I’m currently learning **Android Development, Dart Programming, JavaScript**
+- 🌱 I’m currently learning **Android Development, Dart Programming**
 
-- 💬 Ask me about **Java,C++,HTML,CSS**
+- 💬 Ask me about **Java,C++,HTML,CSS,Javascript,React**
 
 - 📫 How to reach me **sahilkoundal.du@gmail.com**
 
